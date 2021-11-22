@@ -4,7 +4,7 @@
     <img src="https://dyte-uploads.s3.ap-south-1.amazonaws.com/dyte-logo-dark.svg" alt="Logo" width="80">
   </a>
 
-  <h3 align="center">Web integration Example</h3>
+  <h3 align="center">Javascript Sample App</h3>
 
   <p align="center">
     A simple express app which integrates with dyte using REST APIs.
